@@ -21,3 +21,10 @@ example
 ```
     making a resource by hand in species :bug:
 ```   
+
+### Third udacity project
+
+my notebook can be found in [here](https://github.com/oliveira-andre/subway_ny/blob/master/analyzing-subway-data-ndfdsi.ipynb)
+
+---
+
